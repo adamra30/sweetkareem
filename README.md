@@ -9,7 +9,7 @@
 	 and always wanted to be in the classroom learning. I, on the other hand was a young girl, looking 
 	 for any trouble I could get into. <p>
 	 <p>Click here to view more pictures of our family. <a href="#">Pics of us</a>.</p>
-	<img src="29gOb2x4.jpeg" width="300" height="300" alt= "My Angel">
+	<img src="5.jpg" width="300" height="300" alt= "My Angel">
 	<h3> A picture of me and my angel Kareemo </h3>
 	
 	
@@ -35,7 +35,7 @@
     <label><input type="checkbox" name="Activities" checked> Walking</label>
     <label><input type="checkbox" name="personality"> Talking</label>
     <label><input type="checkbox" name="personality"> Yelling at us to help him walk </label><br>
-	<img src="Fars & Als.jpg" width="300" height="300" alt= "Me and Faraz">
+	<img src="26.jpg" width="300" height="300" alt= "Me and Faraz">
 	<p> I'll Leave you with this picture of Faraz and me before Kareemo. <br>
 	<p> THANKS FOR COMING TO MY WEBSITE, HOPE YOU ENJOYED MY RAMBLE <p>
 
