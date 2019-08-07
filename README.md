@@ -1,1 +1,55 @@
-# sweetkareem
+
+<html>
+<h1> Here Is Our Story! </h1>
+<h2> From the beginning of time, until now. </h2>
+
+<body> 
+	<p> It all started in 7th grade. I was walking through the playground when I spotted 
+	a young boy standing, waiting for the bell to ring. See, he was a very eager young boy
+	 and always wanted to be in the classroom learning. I, on the other hand was a young girl, looking 
+	 for any trouble I could get into. <p>
+	 <p>Click here to view more pictures of our family. <a href="#">Pics of us</a>.</p>
+	<img src="29gOb2x4.jpeg" width="300" height="300" alt= "My Angel">
+	<h3> A picture of me and my angel Kareemo </h3>
+	
+	
+<p> I wanted to continue telling you the story but it will be too much of a project and I have to finish this website today
+	and try and upload it to Github and host it. So the whole story will be for another day and I hope you make some time for it. 
+	<p> Since we've been together, married 6 years and together for 9 years now... here are some things we have done together. 
+	<p> Things we love to do:</p>
+  <ul>
+    <li>Travel</li>
+    <li>EAT (all different kinds of food)</li>
+    <li>binge watch amazing shows</li>
+  </ul>
+  <p> Things we have been doing since Kareem joined us:</p>
+  <ol>
+    <li>Help him walk around the house without falling over</li>
+    <li>Feed him and make sure hes well nourished </li>
+    <li>Hang out with more babies </li>
+  </ol>
+ <p> Which thing does Kareem like to do the most?
+    <label><input type="radio" name="Play-Sleep" checked> Play</label>
+    <label><input type="radio" name="Play-Sleep"> Sleep</label><br>
+    <p> Check all the things you learnt Kareem likes to do all the time!!!
+    <label><input type="checkbox" name="Activities" checked> Walking</label>
+    <label><input type="checkbox" name="personality"> Talking</label>
+    <label><input type="checkbox" name="personality"> Yelling at us to help him walk </label><br>
+	<img src="Fars & Als.jpg" width="300" height="300" alt= "Me and Faraz">
+	<p> I'll Leave you with this picture of Faraz and me before Kareemo. <br>
+	<p> THANKS FOR COMING TO MY WEBSITE, HOPE YOU ENJOYED MY RAMBLE <p>
+
+
+	 
+	 
+	 
+</body>	
+ 
+
+
+
+
+
+
+
+</html>
